@@ -1,2 +1,2 @@
 # effective-pte
-Effective PTE Tips
+Effective PTE Tips on mobile.
