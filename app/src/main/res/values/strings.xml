@@ -1,0 +1,253 @@
+<resources>
+    <string name="app_name">Effective PTE Tips</string>
+    <string name="action_settings">Exit</string>
+    <string name="title_speaking">PTE Speaking Effective Tips</string>
+    <string name="title_reading">PTE Reading Effective Tips</string>
+
+
+    <string name="banner_ad_unit_id">ca-app-pub-6721913905554817/5056216569</string>
+    <string name="admob_interstitial_id">ca-app-pub-6721913905554817/9467316436</string>
+
+    <string name="title_listening">PTE Listening Effective Tips</string>
+    <string name="title_writing">PTE Writing Effective Tips</string>
+    <string name="title_Vocab">PTE Useful Vocabluary</string>
+    <string name="title_resources">PTE Useful Resources</string>
+
+
+    <string-array name="readingTips">
+        <item>
+            \n<b>Multiple-choice, choose single answer:</b>
+            \n1. While reading do not focus too much on unfamiliar words. \n2. Use Elimination!!!
+        </item>
+
+        <item></item>
+
+        <item><b>Multiple-choice, choose multiple answers:</b>
+            \n1. Check the responses if you are not sure.
+            \n2. <font fgcolor='RED'>Mark right answers only for which 100% sure, even if one.</font>
+            \n3. If none is sure then mark any two.
+        </item>
+
+        <item></item>
+
+        <item><b>Re-order paragraphs:</b>
+            \n1. It is better to attempt an item than to leave any text boxes unordered.
+            <i>in case of confusion ensure flow should be from general information to more specific information.
+                \na)(General --> Specific).
+                \nb)(Full Name --> only last name).
+                \nc)(Full form --> Abbreviation).
+                \nd)(Coherent, e.g. height  meters)</i>
+        </item>
+
+        <item></item>
+
+        <item><b>Reading: Fill in the blanks:</b>
+            \n1.	Grammatical cues such as preposition, verb/tense/articles
+            \n2.	Context and Tone (+ve/-ve) of passage.
+            \n3.	If all answer look same then use Colocation
+            \n4. Preposition is very important e.g
+            \n\t    Isolated FROM
+            \n\t    Unaffected BY
+        </item>
+
+        <item></item>
+
+        <item>
+            <b>Reading and writing: Fill in the blanks:</b>
+            \n1. Use language clues as well as word knowledge to fill in the blanks.
+            \n2. Colocation and <b>Natural Sounding</b> combination such as sense of satisfaction.
+            \ne.g. large ->\"large navy\" to \"attack nearby islands\" (correct); <font fgcolor='RED'>\"enormous\" and \"efficient\" are incorrect because they
+            should be preceded by article \"an\"</font>.
+        </item>
+
+        <item></item>
+
+    </string-array>
+
+
+    <string-array name="listeningTips">
+        <item>
+            \n<b>Summarize spoken text(can be more than 1 sentences):</b>
+            \n1. Make notes on screen itself and its okay to use same words and phrases because it is listening part. In fact using same words and phrases along with proper grammar is recommended to have. Use exact synonym if not sure of any spelling.
+            \n2. Concentrate on topic sentences and <b>most repeated words</b>.
+            \n3. No need to focus on speaker names, etc. However, need to focus on key points, amount, year and stats.
+            \n4. Leave yourself 1-2 minutes after you have written your summary to check your sentences for things like subject/verb agreement, tenses and word order.
+            Use words that you are sure you have spelled correctly
+            \n5. Finally, check your punctuation: check full stops and commas, and make sure you have begun each sentence with a capital letter
+            \n6. Total 10 min (3 minutes notes with audio, 5 minutes to write summary, 2 min to fix errors)
+            \n e.g. summary:
+            <font fgcolor='RED'>20 years ago</font>, the list of chemicals which affected brain development was numbered at <font fgcolor='RED'>750</font>. Today,
+            this number has increased to about <font fgcolor='RED'>1000</font>. There is <font fgcolor='RED'>insufficient research</font> on the testing of such
+            chemicals by OECD. These chemicals cause harmful effects like the loss of IQ, concentration span, memory
+            and motor functions. It is estimated that for every lost IQ point of a child, society stands to <font fgcolor='RED'>lose 8,000 to 10,000 dollars</font>.
+        </item>
+
+        <item></item>
+
+        <item><b>Multiple–choice, choose multiple answers:</b>
+            \n1. In the 7 seconds before the recording begins Read and understand question and responses first. Continue to listen and understand the audio.
+            \n2. <font fgcolor='RED'>Mark right answers only for which 100% sure, even if one.</font>
+            \n3. If none is sure then mark any two.
+            \n4. <b>Do not try to mark answers while listening, because you may not hear the information in exactly the same order as the options.</b>
+            \n5. Often, correct answers will be paraphrases of what was said - that is, they will say the same thing as the recording, but using different words.
+            \n6. Do not choose an option simply because it uses words or phrases taken directly from the recording.
+        </item>
+
+        <item></item>
+
+        <item>
+            <b>Multiple-choice, choose single answer:</b>
+            \n1. Being aware of the focus of the question will help guide your listening.
+            \n2. In the 5 seconds before the recording begins, quickly read the question and possibly keywords in answers.
+            \n3. Continue listening until the end of the recording.
+        </item>
+
+        <item></item>
+        <item><b>Fill in the blanks:</b>
+            \n1. Type as you hear but do not stop to re-read what you have typed until the recording have finished.
+            \n2. Once recording is finished check spellings and capital letters. e.g.
+            \n <b>Proper nouns</b> (that begin with a capital letter).
+            They can give you information about people and what they do (e.g., ‘<b>M</b>ike <b>G</b>riffiths … conservationist’), places (e.g., ‘Indonesian island of Sumatra’) and organizations (e.g., ‘conservation group The Leuser International Foundation’)
+        \n3. In the 7 seconds before the recording begins, you only have time to skim the text. As you do this, ignore the gaps and try to get an overall idea of what the text is about.
+        \n4. Sometimes if blanks are too close, make sure to hear properly
+        \n5. Use Tab key to move to next blank
+        \n6. Be cautious of 2 words which occur together e.g. honey-colored, city-dweller etc.
+        </item>
+
+        <item></item>
+
+        <item><b>Highlight correct summary:</b>
+            \n1.	Read the summaries before the audio/video starts playing
+            \n2.	If it is a video, still make your own notes and concentrate on audio.
+            \n3.	Concentrate on what you hear and take notes.
+            \n4. Practice taking manual notes not on computer.
+            \n5. This is a high-weightage section.
+        </item>
+
+        <item></item>
+
+
+
+        <item><b>Select missing word:</b>
+            \n1. Focus on the general content of the recording.
+            \n2. During 7 seconds before audio, view the top instruction, it shows the topic of the audio and then view the options too.
+            \n3. Concentrate on language conjunctions, tense, article e.g. if beep is after article THE then it means response has to be countable noun.
+        </item>
+
+        <item></item>
+
+        <item><b>Highlight incorrect words:</b>
+            \n1.	Move the cursor along the text while listening and be ready to click on any word that doesn’t match.
+            \n2.	Make sure not to highlight middle words, e.g. if “left to right” is quoted as “top to bottom” then only “top” and “bottom” should be clicked NOT to.
+            \n3.	If you fall behind, do your best to find where the speaker is in the transcription.
+            \n4. If you hear a slight pause, this often - but not always - indicates the speaker has finished one sentence and is about
+            to start the next. In English, sentences always begin with capital letters. Scan the transcription for capitals during the pause.
+        </item>
+
+        <item></item>
+
+        <item>
+            <b>Write from dictation:</b>
+            \n1. Concentrate on listening and note down first character of each word on notepad, later move content to screen while making sure correct grammar, punctuation, article, tense, capital letter etc.
+            \n2. Check Spellings.
+            \n3. Check articles and punctuation usage such as: First capital, last period or Question mark?
+.
+        </item>
+
+        <item></item>
+    </string-array>
+
+    <string-array name="speakingTips">
+        <item>
+            \n<b>Read Aloud:</b>
+            \n1. Make sure position of mic before exam itself.
+            \n2. Make an attempt at unknown words. Use practice time to read aloud to understand the intonation and stress on difficult word.
+            \n3. Academic words are used to score pronunciation while phrases are used to score fluency. Make sure to stress on academic words and speak phrases without any pause.
+            \n4. Lower pitch towards comma. Normal conversation pace.
+            \n5. Overall strategy is that sentence should bring out the meaning and tone intended.
+        </item>
+
+        <item></item>
+
+        <item><b>Repeat sentence:</b>
+            \n1. Speak into the microphone immediately <font fgcolor='RED'>(there is no short tone)</font> and repeat exactly what you heard.
+            \n2. Do not go back to correct yourself or hesitate.
+            \n3. Check the time shown on playing widget, if it is more than <b>7 seconds</b> then its going to be a longer sentence and advisable to note down first character while concentrating on listening. If less than 7 sec only focus on listening.
+        </item>
+
+        <item></item>
+
+        <item>
+            <b>Describe image:</b>
+            \n1. Describe the general content of the image, then summarize the most significant points, referring to details for support.
+            \n2. More focus on fluency and pronunciation. Less on content.
+            \n3. Note the max, min etc during 25 sec prep period.
+            \n4. Note: PTE is a language test not mental ability test. Better use a structure/template as follows:
+            \n……………………………..
+            \nIntro (10 sec):
+            \nThe given bar chart/line graph/image represents Title + X-axis
+            \n
+            \nFeatures (20 sec):
+            \npoint #1 maximum and point #2 minimums
+            \nOther points
+                        \n
+            \nSingle sentence conclusion (6-8 sec)
+            \nIn conclusion/Overall, it can be stated that …
+            \n…………………………………
+
+           \n\n5. Stop thinking while recording, just use the template, because fluency is crucial.
+            \n6. Target to speak at least 36 seconds
+            \n7. Click next once done.
+        </item>
+
+        <item></item>
+        <item><b>Re-tell lecture:</b>
+            \n1. Pay attention to the lecture and take notes using flow chart format and shorthand.
+            \n2. More focus on fluency and pronunciation. Less on content.
+            \n3. Note the keywords and use synonyms.
+        \n4. Target to speak at least 36 seconds.
+        </item>
+
+        <item></item>
+
+        <item><b>Answer short question:</b>
+            \n1.	Respond with a single word or short phrase.
+            \n2.	It’s not GK test, but listening test, in case something is not known, repeat relevant keywords.
+            \n3.	Be <b>loud and clear</b> in your pronunciation.
+            </item>
+
+        <item></item>
+
+
+    </string-array>
+
+    <string-array name="writingTips">
+    <item>
+        \n<b>Summarize Written Text :</b>
+        \n1. Check the content and length of the summary.
+        \n2. Make sure you <b>start with capital letter and end with full stop</b>.
+        \n3. Do not use same phrases in your summmary as given text, however, words can be same.
+        \n4. No need to quote numbers, only need to summarize the effect.
+        \n5. Make sure, everything is based on given paragraph only (even if it sounds wrong). Do not use your existing knowledge e.g. global warming solutions etc.
+    </item>
+
+    <item></item>
+
+    <item><b>Write Essay:</b>
+        \n1. Plan, draft, check and finalize.
+        \n2. Turn off auto correct when practicing before test
+        \n3. Check prepositions, capital letters, articles, punctuations.
+        \n4. Avoid short forms e.g. etc . i.e.
+        \n5. Learn synonyms of generally common/repetitive words.
+        \n6. Check spellings for each and <b>every</b> word
+        \n7. Practice different kind of essays. Discuss, opinion, argue
+        \n8. Only focus on what is asked, if they ask for your opinion then just give your opinion, don’t say generally people think etc. If they ask you to choose one then stick only with one and do not switch in between.
+        \n9. Essay must include all major and all minor aspects from the prompt and examples.
+        \n10. After writing essay, substitute most frequently used words with synonyms.
+
+    </item>
+
+    <item></item>
+    </string-array>
+
+</resources>
